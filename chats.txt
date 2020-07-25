@@ -1,0 +1,13 @@
+hello
+hi
+how are you?
+I'm fine thanks for asking
+How are you?
+I'm fine
+How was your day?
+It was awesome.
+Great
+Yes, how's yours?
+Mine also great.
+Did you learned machine learning?
+yes.
